@@ -1,0 +1,21 @@
+# Ignore RStudio project files
+.Rproj.user/
+
+# Ignore R history and workspace data
+.Rhistory
+.RData
+
+# Ignore package libraries
+.renviron
+.rsconnect
+
+# Ignore temporary files (common editor backups)
+*.swp
+*.log
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+
